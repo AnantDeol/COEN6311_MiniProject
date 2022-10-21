@@ -1,0 +1,11 @@
+Employee_Name,Password,EmployeeID,Role,Department,#tasks_assigned
+Pallavi Singh,pallavi@gm,pallavi.singh@concordia.com,General Manager,IT/Admin,0
+Anant Bir Singh,anant@dm,anantbir.singh@concordia.com,Department Manager,IT,0
+Animesh Prasad,animesh@dm,animesh.prasad@concordia.com,Department Manager,Admin,0
+Marcus Demes,marcus@wr,marcus.demes@concordia.com,Worker,IT,0
+Ida Malhotra,ida@wr,ida.malhotra@concordia.com,Worker,Admin,0
+Rohit Arora,rohit@wr,rohit.arora@concordia.com,Worker,IT,0
+Neha Sharma,neha@wr,neha.sharma@concordia.com,Worker,Admin,0
+Karan Bolt,karan@wr,karan.bolt@concordia.com,Worker,IT,0
+Lucky Langer,lucky@wr,lucky.langer@concordia.com,Worker,Admin,0
+Guri Samuels,guri@wr,guri.samuels@concordia.com,Worker,IT,0
